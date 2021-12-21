@@ -1,9 +1,10 @@
 # Chicago-Crimes-Data-Analysis
 
-Team members: Ajinkya Pawale (ajpawale@iu.edu) , Anuhya Sankranti (ansankra@iu.edu) , Sharan Sumbad (ssumbad@iu.edu) , Shivani Vogiral (svogiral@iu.edu)
+## Team members: 
+Ajinkya Pawale (ajpawale@iu.edu) , Anuhya Sankranti (ansankra@iu.edu) , Sharan Sumbad (ssumbad@iu.edu) , Shivani Vogiral (svogiral@iu.edu)
 
 
-Executive Summary:
+## Executive Summary:
 
 Almost every country is experiencing a tremendous rise in crimes. There is a pressing need to discover crime patterns and study various types of criminal activity. Security agencies across the globe are working hard to reduce these crimes; nevertheless, the volume of crime data is continually growing, making it challenging to manage such a large amount of data and keep track of crimes that occur across many geographies and over time periods. As a result, having a criminal information system that can process massive amounts of data in a short amount of time is critical. Through this project we worked on the Chicago crimes dataset to analyze different factors effecting the increase in crime rate in Chicago.
 
