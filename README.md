@@ -1,4 +1,3 @@
-# Chicago-Crimes-Data-Analysis
 
 ## Team members: 
 Ajinkya Pawale (ajpawale@iu.edu) , Anuhya Sankranti (ansankra@iu.edu) , Sharan Sumbad (ssumbad@iu.edu) , Shivani Vogiral (svogiral@iu.edu)
